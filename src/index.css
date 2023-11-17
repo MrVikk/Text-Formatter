@@ -1,0 +1,9 @@
+.accordion-button::after {
+    filter: invert(1);
+}
+body{
+    background-color: rgb(209, 203, 209);
+}
+nav{
+    background-color: rgb(82, 95, 94);
+}
